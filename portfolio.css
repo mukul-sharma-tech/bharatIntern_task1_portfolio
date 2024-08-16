@@ -91,6 +91,7 @@ html,body{
     position: absolute;
     font-weight: 500;
     top: 200px;
+    font-size: 25px;
 }
 
 #buttons{
